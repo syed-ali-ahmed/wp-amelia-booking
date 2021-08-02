@@ -1,0 +1,7 @@
+{
+  "name": "natakallam/ameliabooking-autoapprove",
+  "type": "wordpress-plugin",
+  "require": {
+    "composer/installers": "^1.4"
+  }
+}
